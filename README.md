@@ -7,7 +7,7 @@
 
 
 
-I am a Christian
+# <div align="center"> <img src="SH-Harvest.PNG" alt="SK-Harvest"> </div>
 
 
 
