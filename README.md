@@ -1,18 +1,29 @@
-# EMMANUEL
-...
+
+# <p align="center"/> CAC MINISTRY </p>
+ 
 
 
-# STUDENT NAMES
-The name of JS2 students are:
-1. ade
-2. tunde
+# <p align="center"/> adehumble </p>
 
 
-# DOG NAMES
-- Cat
-- Dog
 
-*boy*
+I am a Christian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Pls download my movie [Titans](https://wwww.microsoft.com)
 
