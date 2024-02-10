@@ -7,7 +7,7 @@
 
 
 # <div align="center">
-  <img src="AdeHumble/wrong%20supply">
+  <img src="AdeHumble/wrongsupply">
   </div>
 
 
